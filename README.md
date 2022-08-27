@@ -53,6 +53,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=arionrefat&custom_title=Wakatime&theme=dark&layout=compact&langs_count=5" alt="Arionrefat :: Wakatime Stats" /></p>
+
 <div align="center">
   <a href="https://wakatime.com/@976084eb-47cd-4c8d-9ef4-05c8a432764b"><img src="https://wakatime.com/badge/user/976084eb-47cd-4c8d-9ef4-05c8a432764b.svg" alt="Total time coded since Nov 10 2020" /></a>
 </div>
