@@ -16,12 +16,6 @@ jobs:
         uses: devorein/github-readme-learn-section-notion@master
         with:
           database_id: "984cdfa49aca49d7a08ce49d26bee784"
-      - uses: "devorein/action-hashnode-blog@main"
-        with:
-          USERNAME: 'arionrefat'
-          STYLE: blog-right
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
