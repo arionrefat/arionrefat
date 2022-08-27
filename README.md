@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-**arionrefat/arionrefat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... [reinforz](https://reinforz.xyz)
 - 🌱 I’m currently learning ... Pandas, Numpy
 - 💬 Ask me about ...
