@@ -48,8 +48,6 @@ Here are some ideas to get you started:
 <hr>
 <!--END_SECTION:learn-->
 
-<details>
-
 <summary>:zap: Recent Github Activities</summary>
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#117](https://github.com/RRethy/vim-illuminate/issues/117) in [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate)
@@ -63,4 +61,3 @@ Here are some ideas to get you started:
 9. 💪 Opened PR [#117](https://github.com/NLP-practitioners/reinforz/pull/117) in [NLP-practitioners/reinforz](https://github.com/NLP-practitioners/reinforz)
 10. 💪 Opened PR [#109](https://github.com/NLP-practitioners/reinforz/pull/109) in [NLP-practitioners/reinforz](https://github.com/NLP-practitioners/reinforz)
 <!--END_SECTION:activity-->
-</details>
