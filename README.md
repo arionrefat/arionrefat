@@ -52,5 +52,15 @@ Here are some ideas to get you started:
 
 <summary>:zap: Recent Github Activities</summary>
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#117](https://github.com/RRethy/vim-illuminate/issues/117) in [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate)
+2. ❗️ Opened issue [#157](https://github.com/rmagatti/auto-session/issues/157) in [rmagatti/auto-session](https://github.com/rmagatti/auto-session)
+3. 🗣 Commented on [#3613](https://github.com/emacs-lsp/lsp-mode/issues/3613) in [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode)
+4. 🗣 Commented on [#40](https://github.com/dccsillag/picom/issues/40) in [dccsillag/picom](https://github.com/dccsillag/picom)
+5. 🗣 Commented on [#40](https://github.com/dccsillag/picom/issues/40) in [dccsillag/picom](https://github.com/dccsillag/picom)
+6. 🗣 Commented on [#40](https://github.com/dccsillag/picom/issues/40) in [dccsillag/picom](https://github.com/dccsillag/picom)
+7. 🗣 Commented on [#38](https://github.com/dccsillag/picom/issues/38) in [dccsillag/picom](https://github.com/dccsillag/picom)
+8. 🗣 Commented on [#38](https://github.com/dccsillag/picom/issues/38) in [dccsillag/picom](https://github.com/dccsillag/picom)
+9. 💪 Opened PR [#117](https://github.com/NLP-practitioners/reinforz/pull/117) in [NLP-practitioners/reinforz](https://github.com/NLP-practitioners/reinforz)
+10. 💪 Opened PR [#109](https://github.com/NLP-practitioners/reinforz/pull/109) in [NLP-practitioners/reinforz](https://github.com/NLP-practitioners/reinforz)
 <!--END_SECTION:activity-->
 </details>
