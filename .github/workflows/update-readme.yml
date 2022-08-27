@@ -1,0 +1,30 @@
+name: Update README with recent activities
+
+on:
+  schedule:
+    - cron: '0 0-23/4 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    name: Update this repo's README with recent activity
+    steps:
+      - uses: actions/checkout@main
+      - name: Learn Section action step
+        id: learn_section
+        uses: devorein/github-readme-learn-section-notion@master
+        with:
+          database_id: "984cdfa49aca49d7a08ce49d26bee784"
+      - uses: "devorein/action-hashnode-blog@main"
+        with:
+          USERNAME: 'arionrefat'
+          STYLE: blog-right
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: Updated Readme
+          MAX_LINES: 10
