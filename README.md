@@ -7,7 +7,7 @@
 
 <h2 align="center">Current Knowledge</h2>
 
-**NOTE:** Below is a list of things I've used in atleast one of my projects/work or learned at some point in my life. It doesn't mean I know everything about them but I do have first hand experience and is comfortable using them.
+**NOTE:** Below is a list of things I've used or worked on in some way or another. It doesn't mean I'm proficient but I do have first hand experience and is comfortable using them.
 
 <!--START_SECTION:learn-->
 <h3><img height="20px" src="https://img.shields.io/badge/Database-979a9b"/></h3>
@@ -56,7 +56,7 @@
 
 <p align="center">
 <a href="mailto:gazirefatul@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-gazirefatul@gmail.com-red?style=flat&logo=gmail"></a>
-<a href="https://discord.com/channels/@me"><img alt="Discord" src="https://img.shields.io/badge/Discord-Refatul#9938-blue?style=flat&logo=discord"></a>
+<a href="https://discord.com/channels/@me"><img alt="Discord" src="https://img.shields.io/badge/Discord-Refatul%239938-blue?style=flat&logo=discord"></a>
 <a href="https://www.reddit.com/user/Arionrefat"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-Arionrefat-orange?style=flat&logo=reddit"></a>
 <a href="https://twitter.com/refatul_arion"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-refatul_arion-blue?style=flat&logo=twitter"></a>
 <a href="https://www.linkedin.com/in/g-m-refatul-islam-a30a65178/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-refatul-blue?style=flat&logo=linkedin"></a>
