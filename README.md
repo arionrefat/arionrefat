@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... [reinforz](https://reinforz.xyz)
-- 🌱 I’m currently learning ... Pandas, Numpy
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning ... Pandas, Numpy, scikit-learn, backend
+- ⚡ Philosophy: Free(free as in freedom/libre) software advocate
 
 <h2 align="center">Current Knowledge</h2>
 
