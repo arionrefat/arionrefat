@@ -52,6 +52,29 @@
 <span><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSIjMDA3QUNDIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+VmlzdWFsIFN0dWRpbyBDb2RlPC90aXRsZT48cGF0aCBkPSJNMjMuMTUgMi41ODdMMTguMjEuMjFhMS40OTQgMS40OTQgMCAwIDAtMS43MDUuMjlsLTkuNDYgOC42My00LjEyLTMuMTI4YS45OTkuOTk5IDAgMCAwLTEuMjc2LjA1N0wuMzI3IDcuMjYxQTEgMSAwIDAgMCAuMzI2IDguNzRMMy44OTkgMTIgLjMyNiAxNS4yNmExIDEgMCAwIDAgLjAwMSAxLjQ3OUwxLjY1IDE3Ljk0YS45OTkuOTk5IDAgMCAwIDEuMjc2LjA1N2w0LjEyLTMuMTI4IDkuNDYgOC42M2ExLjQ5MiAxLjQ5MiAwIDAgMCAxLjcwNC4yOWw0Ljk0Mi0yLjM3N0ExLjUgMS41IDAgMCAwIDI0IDIwLjA2VjMuOTM5YTEuNSAxLjUgMCAwIDAtLjg1LTEuMzUyem0tNS4xNDYgMTQuODYxTDEwLjgyNiAxMmw3LjE3OC01LjQ0OHYxMC44OTZ6Ii8+PC9zdmc+Cg==" alt="Visual Studio Code"/></span>
 <hr>
 <!--END_SECTION:learn-->
+<h3 align="center"> Connect with Me at </h3>
+
+<p align="center">
+<a href="mailto:devorein00@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-devorein00@gmail.com-red?style=flat&logo=gmail"></a>
+<a href="https://discord.com/channels/@me"><img alt="Discord" src="https://img.shields.io/badge/Discord-Devorein%232924-blue?style=flat&logo=discord"></a>
+<a href="https://www.reddit.com/user/dev0rein"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-dev0rein-orange?style=flat&logo=reddit"></a>
+<a href="https://twitter.com/devorein"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-devorein-blue?style=flat&logo=twitter"></a>
+<a href="https://www.linkedin.com/in/safwan-shaheer-4b759a1bb/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-devorein-blue?style=flat&logo=linkedin"></a>
+</p>
+
+<p align="center">
+   <table>
+      <tr>
+       <th>Profile stats  </th>
+       <th>Language Contribution</th>
+     </tr>
+      <tr>
+       <td><img alt="Arionrefat :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=arionrefat&show_icons=true&theme=dark"> </td>
+       <td><img alt="Arionrefat :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arionrefat&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
+     </tr>
+   </table>
+</p>
+
 <p align="center">
   <a href="https://wakatime.com/@arionrefat">
     <img src="https://raw.githubusercontent.com/uiwjs/file-icons/e384633d31ef07cceee07346fbada0aade402e46/icon/wakatime.svg" alt="Devorein's Wakatime Profile" height="30" width="30">
