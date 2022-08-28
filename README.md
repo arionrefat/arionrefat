@@ -69,7 +69,7 @@
      </tr>
       <tr>
        <td><img alt="Arionrefat :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=arionrefat&show_icons=true&theme=dark"> </td>
-       <td><img alt="Arionrefat :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arionrefat&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
+       <td><img alt="Arionrefat :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arionrefat&langs_count=15&theme=tokyonight&layout=compact&hide=html"> </td>
      </tr>
    </table>
 </p>
