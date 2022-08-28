@@ -56,10 +56,10 @@
 
 <p align="center">
 <a href="mailto:gazirefatul@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-gazirefatul@gmail.com-red?style=flat&logo=gmail"></a>
-<a href="https://discord.com/channels/@me"><img alt="Discord" src="https://img.shields.io/badge/Discord-Refatul%232924-blue?style=flat&logo=discord"></a>
+<a href="https://discord.com/channels/@me"><img alt="Discord" src="https://img.shields.io/badge/Discord-Refatul#9938-blue?style=flat&logo=discord"></a>
 <a href="https://www.reddit.com/user/Arionrefat"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-Arionrefat-orange?style=flat&logo=reddit"></a>
-<a href="https://twitter.com/refatul_arionrefat"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-refatul_arion-blue?style=flat&logo=twitter"></a>
-<a href="https://www.linkedin.com/in/g-m-refatul-islam-a30a65178/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-g-m-refatul-islam-blue?style=flat&logo=linkedin"></a>
+<a href="https://twitter.com/refatul_arion"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-refatul_arion-blue?style=flat&logo=twitter"></a>
+<a href="https://www.linkedin.com/in/g-m-refatul-islam-a30a65178/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-refatul-blue?style=flat&logo=linkedin"></a>
 </p>
 
 <p align="center">
