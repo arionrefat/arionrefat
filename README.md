@@ -51,7 +51,33 @@
 <span><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSIjMDA3QUNDIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+VmlzdWFsIFN0dWRpbyBDb2RlPC90aXRsZT48cGF0aCBkPSJNMjMuMTUgMi41ODdMMTguMjEuMjFhMS40OTQgMS40OTQgMCAwIDAtMS43MDUuMjlsLTkuNDYgOC42My00LjEyLTMuMTI4YS45OTkuOTk5IDAgMCAwLTEuMjc2LjA1N0wuMzI3IDcuMjYxQTEgMSAwIDAgMCAuMzI2IDguNzRMMy44OTkgMTIgLjMyNiAxNS4yNmExIDEgMCAwIDAgLjAwMSAxLjQ3OUwxLjY1IDE3Ljk0YS45OTkuOTk5IDAgMCAwIDEuMjc2LjA1N2w0LjEyLTMuMTI4IDkuNDYgOC42M2ExLjQ5MiAxLjQ5MiAwIDAgMCAxLjcwNC4yOWw0Ljk0Mi0yLjM3N0ExLjUgMS41IDAgMCAwIDI0IDIwLjA2VjMuOTM5YTEuNSAxLjUgMCAwIDAtLjg1LTEuMzUyem0tNS4xNDYgMTQuODYxTDEwLjgyNiAxMmw3LjE3OC01LjQ0OHYxMC44OTZ6Ii8+PC9zdmc+Cg==" alt="Visual Studio Code"/></span>
 <hr>
 <!--END_SECTION:learn-->
-<h3 align="center"> Connect with Me at </h3>
+
+<h2 align="center">You can catch me at</h2>
+
+<p align="center">
+  <a href="https://stackoverflow.com/users/11887876/arion-love">
+    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="arion-love's Stack Overflow Profile" height="30" width="30">
+  </a>
+  <a href="https://www.showwcase.com/arionrefat">
+    <img src="https://ph-files.imgix.net/d1a35e06-ec86-4a7c-b0f0-b12684ce53c6.png?auto=format" alt="arionrefat's Showwcase Profile" height="30" width="30"/>
+  </a>
+  <a href="https://wakatime.com/@arionrefat">
+    <img src="https://raw.githubusercontent.com/uiwjs/file-icons/e384633d31ef07cceee07346fbada0aade402e46/icon/wakatime.svg" alt="Refat's Wakatime Profile" height="30" width="30">
+  </a>
+  <a href="https://peerlist.io/arionrefat">
+    <img src="https://pbs.twimg.com/profile_images/1501427040847011842/ebLQEugq_400x400.jpg" alt="arionrefat's Peerlist Profile" height="30" width="30">
+  </a>
+  <a href="https://www.polywork.com/gazirefatul">
+    <img src="https://pbs.twimg.com/profile_images/1556751951588630529/DO0etv0d_400x400.jpg" alt="gazirefatul's Polywork Profile" height="30" width="30">
+  </a>
+  <a href="https://linktr.ee/arionrefat">
+    <img src="https://play-lh.googleusercontent.com/x3Kpw4L_-miSO6eumND8Az4ltZ2Ype6vSrJeJJW44Jugzn8KuKXaqsu_E_Zjx0Db5Hw=w240-h480-rw" alt="arionrefat's Linktree Profile" height="30" width="30">
+  </a>
+</p>
+
+<h3 align="center"> OR </h3>
+
+<h2 align="center"> Connect with Me at </h2>
 
 <p align="center">
 <a href="mailto:gazirefatul@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-gazirefatul@gmail.com-red?style=flat&logo=gmail"></a>
@@ -62,24 +88,26 @@
 </p>
 
 <p align="center">
+   <img src="https://stackoverflow.com/users/flair/11887876.png?theme=dark" alt="arionrefat's Stackoverflow Badge"/>
+</p>
+
+<p align="center">
    <table>
       <tr>
-       <th>Profile stats  </th>
+       <th>Profile stats</th>
        <th>Language Contribution</th>
      </tr>
       <tr>
        <td><img alt="Arionrefat :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=arionrefat&show_icons=true&theme=dark"> </td>
        <td><img alt="Arionrefat :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arionrefat&langs_count=15&theme=tokyonight&layout=compact&hide=html"> </td>
-     </tr>
    </table>
 </p>
-
 <p align="center">
-  <a href="https://wakatime.com/@arionrefat">
+       <a href="https://wakatime.com/@arionrefat">
     <img src="https://raw.githubusercontent.com/uiwjs/file-icons/e384633d31ef07cceee07346fbada0aade402e46/icon/wakatime.svg" alt="Devorein's Wakatime Profile" height="30" width="30">
   </a>
-</p>
-
+   </p>
+  
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=arionrefat&custom_title=Wakatime&theme=dark&layout=compact&langs_count=5" alt="Arionrefat :: Wakatime Stats" /></p>
 
 <div align="center">
