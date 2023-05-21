@@ -9,7 +9,6 @@ on:
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
-    permissions: write-all
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
