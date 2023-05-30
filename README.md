@@ -1,5 +1,5 @@
 # Hi! 👋 I'm Arionrefat.
-### Cofounder and CMO @ [Reinforz](https://github.com/Reinforz)
+### Cofounder and COO @ [Reinforz](https://github.com/Reinforz)
 --- 
 
 ### Socials
