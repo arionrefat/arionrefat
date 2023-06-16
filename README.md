@@ -33,11 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                 4 hrs 33 mins   ███████████░░░░░░░░░░░░░░   44.31 %
-Astro                      3 hrs 26 mins   ████████▒░░░░░░░░░░░░░░░░   33.52 %
-JavaScript                 47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
-JSON                       28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
-Nginx configuration file   19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+TypeScript                 5 hrs 58 mins   █████████████▒░░░░░░░░░░░   53.00 %
+Astro                      2 hrs 49 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.14 %
+JavaScript                 46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+JSON                       35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Nginx configuration file   19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
 ```
 
 <!--END_SECTION:waka-->
