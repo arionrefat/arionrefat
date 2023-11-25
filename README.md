@@ -33,9 +33,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 7 mins     ██████████████████▓░░░░░░   74.40 %
-Python       13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 %
-Astro        9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
+TypeScript   1 hr 7 mins     ██████████████████████░░░   87.70 %
+Astro        9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
 ```
 
 <!--END_SECTION:waka-->
