@@ -33,10 +33,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   15 hrs 57 mins  █████████████████████▓░░░   86.35 %
-JavaScript   2 hrs 21 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
-gitconfig    9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+TypeScript   15 hrs 18 mins  █████████████████████▒░░░   85.83 %
+JavaScript   2 hrs 22 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 %
+gitconfig    9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
