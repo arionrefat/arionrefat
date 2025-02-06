@@ -33,11 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-gitconfig     3 hrs 8 mins    ███████▓░░░░░░░░░░░░░░░░░   31.21 %
-TypeScript    3 hrs 6 mins    ███████▓░░░░░░░░░░░░░░░░░   30.91 %
-gitrebase     1 hr 19 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.26 %
-Python        1 hr 15 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.53 %
-Bash          24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+TypeScript    4 hrs 15 mins   ██████████▒░░░░░░░░░░░░░░   40.85 %
+gitconfig     2 hrs 13 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.34 %
+gitrebase     1 hr 19 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 %
+Python        58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
+Bash          29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
 ```
 
 <!--END_SECTION:waka-->
