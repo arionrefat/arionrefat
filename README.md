@@ -33,8 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Rust       6 mins          ██████████████████░░░░░░░   72.31 %
-Solidity   2 mins          ███████░░░░░░░░░░░░░░░░░░   27.69 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
