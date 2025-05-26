@@ -1,5 +1,5 @@
 # Hi! 👋 I'm Arionrefat.
-### Software Engineer @ [AscendAI](https://github.com/AscendAI) and Cofounder and COO @ [Reinforz](https://github.com/Reinforz)
+### Application Engineer @ [Auxo Solutions](https://www.auxosolutions.io) and Cofounder and COO @ [Reinforz](https://github.com/Reinforz)
 --- 
 
 ### Socials
