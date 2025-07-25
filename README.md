@@ -33,9 +33,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-gitconfig    34 mins         ██████████████████▒░░░░░░   73.27 %
-TypeScript   12 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.44 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+gitconfig    34 mins         █████████████▓░░░░░░░░░░░   54.52 %
+TypeScript   28 mins         ███████████▒░░░░░░░░░░░░░   45.27 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
