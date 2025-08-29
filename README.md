@@ -33,7 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   6 mins          █████████████████████████   100.00 %
+TypeScript        6 mins          ██████████▓░░░░░░░░░░░░░░   42.18 %
+Batchfile         5 mins          ████████▒░░░░░░░░░░░░░░░░   33.91 %
+Java Properties   3 mins          █████░░░░░░░░░░░░░░░░░░░░   19.98 %
+Bash              0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+Groovy            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 ```
 
 <!--END_SECTION:waka-->
