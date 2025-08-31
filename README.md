@@ -33,11 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Batchfile         8 mins          ███████▓░░░░░░░░░░░░░░░░░   30.44 %
-Groovy            7 mins          ███████░░░░░░░░░░░░░░░░░░   28.38 %
-TypeScript        7 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.89 %
-Java Properties   3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
-Bash              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+Batchfile         8 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.13 %
+Groovy            7 mins          ██████░░░░░░░░░░░░░░░░░░░   23.43 %
+TypeScript        7 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.19 %
+confini           5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.79 %
+Java Properties   3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
 ```
 
 <!--END_SECTION:waka-->
