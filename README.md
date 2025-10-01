@@ -1,5 +1,5 @@
 # Hi! 👋 I'm Arionrefat.
-### Application Engineer @ [Auxo Solutions](https://www.auxosolutions.io) and Cofounder and COO @ [Reinforz](https://github.com/Reinforz)
+### Application Engineer @ [Alpha fmc](https://alphafmc.com/) and Cofounder and COO @ [Reinforz](https://github.com/Reinforz)
 --- 
 
 ### Socials
