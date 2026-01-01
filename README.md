@@ -33,7 +33,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TOML   6 mins          ██████████▓░░░░░░░░░░░░░░   42.26 %
+Bash   4 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.21 %
+tmux   3 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.01 %
+JSON   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
 ```
 
 <!--END_SECTION:waka-->
