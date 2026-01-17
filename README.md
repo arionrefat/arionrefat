@@ -33,9 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JSON   20 mins         ███████████████████▒░░░░░   77.21 %
-Lua    3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.10 %
-conf   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
