@@ -33,7 +33,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown     3 mins          ████████████▒░░░░░░░░░░░░   49.76 %
+JavaScript   2 mins          ███████▓░░░░░░░░░░░░░░░░░   30.24 %
+HTML         1 min           █████░░░░░░░░░░░░░░░░░░░░   20.00 %
 ```
 
 <!--END_SECTION:waka-->
