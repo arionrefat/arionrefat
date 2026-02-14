@@ -33,7 +33,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   28 mins         █████████████████████████   100.00 %
+Swift        43 mins         ████████████░░░░░░░░░░░░░   47.49 %
+TypeScript   32 mins         █████████░░░░░░░░░░░░░░░░   35.94 %
+Lua          15 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.58 %
 ```
 
 <!--END_SECTION:waka-->
